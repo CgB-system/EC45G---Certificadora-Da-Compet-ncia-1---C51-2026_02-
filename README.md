@@ -1,8 +1,3 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=9400D3&reversal=false&fontAlignY=38&textBg=false&animation=fadeIn&fontSize=50&fontColor=F5F5DC" width="100%"/>
-</p>
-
----
 
 > [!IMPORTANT]
 > Repositório dedicado à disciplina de EC45G - Certificadora Da Competência 1 - C51 (2026_02) do curso de Engenharia de Computação da Universidade Tecnológica Federal do Paraná, em Cornélio Procópio!
@@ -66,9 +61,3 @@
 </td>
 </tr>
 </table>
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=9400D3&section=footer" width="100%"/>
-</p>
