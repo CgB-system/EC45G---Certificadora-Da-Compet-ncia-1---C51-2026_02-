@@ -24,7 +24,7 @@
 <tr><th>Nome</th><th>RA</th></tr>
 </thead>
 <tbody>
-<tr><td>Antonio Gabriel Nunes Martins</td><td>2865548</td></tr>
+<tr><td><a href="https://github.com/antonollo" target="_blank">Antonio Gabriel Nunes Martins</a></td><td>2865548</td></tr>
 <tr><td><a href="https://github.com/CgB-system" target="_blank">Carlos Gabriel Baratieri</a></td><td>2706598</td></tr>
 <tr><td>Gabriel Rodrigues Pereira de Jesus</td><td>2706628</td></tr>
 <tr><td><a href="https://github.com/GustavoGracionali" target="_blank">Gustavo de Oliveira Gracionali</a></td><td>2618052</td></tr>
@@ -45,9 +45,11 @@
 <tr>
 <td align="center"><b>Front-End</b></td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=html" width="50"/>
-<img src="https://skillicons.dev/icons?i=css" width="50"/>
-<img src="https://skillicons.dev/icons?i=js" width="50"/>
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="50" style="margin: 0 8px;"/>
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vite.svg" width="50" style="margin: 0 8px;"/>
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/typescript.svg" width="50" style="margin: 0 8px;"/>
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/tailwind.svg" width="50" style="margin: 0 8px;"/>
+<img src="https://cdn.simpleicons.org/shadcnui/000000" width="50" style="margin: 0 8px;"/>
 <img src="https://skillicons.dev/icons?i=figma" width="50"/>
 </td>
 </tr>
