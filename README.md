@@ -28,7 +28,7 @@
 <tr><td><a href="https://github.com/CgB-system" target="_blank">Carlos Gabriel Baratieri</a></td><td>2706598</td></tr>
 <tr><td><a href= "https://github.com/G-Jesus" target="_blank">Gabriel Rodrigues Pereira de Jesus</td><td>2706628</td></tr>
 <tr><td><a href="https://github.com/GustavoGracionali" target="_blank">Gustavo de Oliveira Gracionali</a></td><td>2618052</td></tr>
-<tr><td>Vitor Zacarias Carvalho Casagrande</td><td>2706717</td></tr>
+<tr><td><a href="https://github.com/zkarias" target=_blank">Vitor Zacarias Carvalho Casagrande</td><td>2706717</td></tr>
 </tbody>
 </table>
 </td>
