@@ -1,0 +1,57 @@
+@import "@fontsource/clarity-city/index.css";
+@import "@fontsource/montserrat/index.css";
+@import "tailwindcss";
+
+@theme {
+  --color-background: #0f0f0f;
+  --color-surface: #171818;
+  --color-card: #202222;
+  --color-card-border: #2c2e2e;
+  --color-components: #2D2E2E;
+  --color-highlight: #71C3A5;
+  --color-highlight-hover: #5cb394;
+  --color-highlight-bg: #153428;
+  --color-text-muted: #CECECE;
+  --color-text-secondary: #9CA3AF;
+  --font-main: "Clarity City", "Montserrat", system-ui, sans-serif;
+  --font-sub: "Montserrat", system-ui, sans-serif;
+}
+
+body {
+  background-color: #0f0f0f;
+  color: #CECECE;
+  font-family: var(--font-main, "Clarity City", "Montserrat", sans-serif);
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+
+.font-sub,
+small,
+.text-xs,
+.text-\[10px\],
+.text-\[11px\],
+.tracking-wider,
+.uppercase {
+  font-family: var(--font-sub, "Montserrat", sans-serif);
+}
+
+::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+
+::-webkit-scrollbar-track {
+  background: #111212;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #282a2a;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #3b3d3d;
+}
