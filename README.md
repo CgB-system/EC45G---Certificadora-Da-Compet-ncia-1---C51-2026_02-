@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/.png" alt="TEDI" width="300" />
+</p>
+
 
 > [!IMPORTANT]
 > Repositório dedicado à disciplina de EC45G - Certificadora Da Competência 1 - C51 (2026_02) do curso de Engenharia de Computação da Universidade Tecnológica Federal do Paraná, em Cornélio Procópio!
