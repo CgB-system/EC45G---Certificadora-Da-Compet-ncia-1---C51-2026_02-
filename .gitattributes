@@ -1,0 +1,5 @@
+frontend/src/**/*.ts linguist-language=TypeScript
+frontend/src/**/*.tsx linguist-language=TypeScript
+frontend/vite.config.ts linguist-language=TypeScript
+frontend/src/**/*.css linguist-language=CSS
+frontend/index.html linguist-language=HTML
