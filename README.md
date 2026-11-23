@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/tedi.png" alt="TEDI" width="300" />
+  <img src="assets/tedi.png" alt="TEDI" width="500" />
 </p>
 
 <h1 align="center">Certificadora Da Competência 1</h1>
