@@ -54,13 +54,19 @@
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vite.svg" width="50" style="margin: 0 8px;"/>
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/typescript.svg" width="50" style="margin: 0 8px;"/>
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/tailwind.svg" width="50" style="margin: 0 8px;"/>
-<img src="https://cdn.simpleicons.org/shadcnui/000000" width="50" style="margin: 0 8px;"/>
 <img src="https://skillicons.dev/icons?i=figma" width="50"/>
 </td>
 </tr>
 <tr>
 <td align="center"><b>Back-End</b></td>
-<td align="center"></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=java" width="50" style="margin: 0 8px;"/>
+<img src="https://cdn.simpleicons.org/springboot" width="50" style="margin: 0 8px;"/>
+<img src="https://skillicons.dev/icons?i=maven" width="50" style="margin: 0 8px;"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="50" style="margin: 0 8px;"/>
+<img src="https://cdn.simpleicons.org/jsonwebtokens" width="50" style="margin: 0 8px;"/>
+<img src="https://cdn.simpleicons.org/google" width="50"/>
+</td>
 </tr>
 <tr>
 <td align="center"><b>Docs & VCS</b></td>
