@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/.png" alt="TEDI" width="300" />
+  <img src="assets/tedi.jpeg" alt="TEDI" width="300" />
 </p>
 
 
